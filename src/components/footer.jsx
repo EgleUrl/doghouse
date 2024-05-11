@@ -10,7 +10,7 @@ const Footer = () => {
                 <div className="row">
                     {/*Grid column*/}
                     <div className="col-lg-4 col-md-12 mb-4 mb-md-0">
-                        <a href='/'><img src="./src/assets/images/logo.png" alt="Company logo" id='logo'/></a>
+                        <a href='/'><img src="../assets/images/logo.png" alt="Company logo" id='logo'/></a>
                         <h6 className='pt-4 pb-3'>
                             A place, where pets <b>matter</b>
                         </h6>
