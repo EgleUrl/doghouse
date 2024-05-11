@@ -1,0 +1,11 @@
+.nav-area {
+    background-color: #9BA633;
+}
+#logo:hover {
+    animation: wobble; 
+    animation-duration: 2s;
+} 
+#links {
+    font-size: 1.4rem;
+    align-items: center;    
+}

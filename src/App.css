@@ -1,42 +1,129 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
 }
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
+.main {
+  background-image: linear-gradient(to right, rgba(228,220,209,0.5), rgba(242,238,235,1));
 }
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
+.address {    
+  display: flex; 
+  background-color: transparent;   
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.01);
+  align-items: center;
 }
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
+.map-area {
+  background-color: transparent;   
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.01);    
+}
+.link {
+  color: black;
+}
+.accordion-header .accordion-button {
+  align-content: center;
+  font-weight: bold;
+  font-size: 1.1rem;
+} 
+.form-area {    
+  background-color: transparent;   
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.01);
+  width: 60%;
+}
+.contact-area {
+  justify-content: center;
+  align-items: center;
+  display: relative;    
+  width: 60%;  
+}
+.contact-container {     
+  background-color: transparent;   
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.01);     
+  display: flex;
+  width: auto;  
+}
+.form-container {
+  justify-content: center;
+  align-items: center;
+  display: flex;      
+}
+.swiper {
+  width: 100%;
+  height: 100%;
+}  
+.swiper-slide img {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.swiper-button-prev, .swiper-button-next {
+  color: #96BA33 !important; 
+}
+#butt {
+background-color: #96BA33;  
+}
+#butt:hover {
+background-color: #4c591e;
+}
+.cart-plus-minus-box {
+width: 15vh;
+height: 4vh;
+
+}
+.qtybutton {
+cursor: pointer;
+font-size: 2.2rem;
+color: #4c591e;
+}
+.stars{
+color: #96BA33;
+}
+.shop-cart {
+width: 100%;
 }
 
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
+.tableimg {  
+width: auto;
+height: auto;
+}
+table {
+font-size: large;
+width: auto;
+margin-left: 0;
+table-layout: fixed; 
+}
+.p-content {
+color: black;
+font-size: small;
+}
+.pull-right {
+position: absolute;
+right: 2vh;  
+}
+.pull-left {
+position: absolute;
+
+}
+
+@media screen and (max-width: 1350px) {
+#butt {
+  margin-top: 1rem;
+}
+}
+@media screen and (max-width: 960px) {
+  .form-area {
+    width: 100%;
   }
-  to {
-    transform: rotate(360deg);
+  .form-area .btn {
+    width: 100%;
   }
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
+  .btn {
+    width: 100%;
   }
-}
-
-.card {
-  padding: 2em;
-}
-
-.read-the-docs {
-  color: #888;
+  table {
+    table-layout: auto;
+  }
 }

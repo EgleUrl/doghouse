@@ -1,0 +1,8 @@
+.pageheader-main {
+    background: url("../assets/images/background.png") no-repeat top;    
+    height: 100%;      
+}
+.pageheader-content {
+    margin-top: 7vh;    
+}
+
