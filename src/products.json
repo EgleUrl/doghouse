@@ -41,7 +41,7 @@
         "description": "Mentally challenge your rabbit, rodent or bird with the Trixie Small Pet Wooden Snack Box Small Pet Toy. This wooden game contains three cubes in a holder that you can fill with your small pet's favourite snack.",
         "imgAlt": "Wooden Snack Box Puzzle Toy",        
         "img1": "./src/assets/products/snackBox1.png",
-        "img2": "./src/assets/products/snackBox2.png",        
+        "img2": "../src/assets/products/snackBox2.png",        
         "quantity": 0
     },
     {
@@ -56,7 +56,7 @@
         "description": "If you are looking for something to give to your pet that combines treat, toy and gnaw, then the Rosewood Naturals Rodent Playground is the ideal option.",
         "imgAlt": "Rodent Playground",        
         "img1": "./src/assets/products/rodentplay1.png",
-        "img2": "./src/assets/products/rodentplay2.png",        
+        "img2": "../src/assets/products/rodentplay2.png",        
         "quantity": 0
     },
     {
@@ -71,7 +71,7 @@
         "description": "Cute and great fun for your small animal, this wooden Rosewood Rainbow Bridge makes a colourful addition to your pet's cage. It is a great boredom breaker and provides your small furry with something new to explore and play with.",
         "imgAlt": "Rainbow Play Bridge Small",        
         "img1": "./src/assets/products/rainbow1.png",
-        "img2": "./src/assets/products/rainbow2.png",        
+        "img2": "../src/assets/products/rainbow2.png",        
         "quantity": 0
     },
     {
@@ -86,7 +86,7 @@
         "description": "Tiny Friends Farm Eco Bedding for small pets is a new eco-friendly and sustainable bedding for small pets. It is soft on small pets’ paws and is kind to our planet too. It is ethically sourced and manufactured in Great Britain.",
         "imgAlt": "Eco Bedding - 15L",        
         "img1": "./src/assets/products/ecobed1.png",
-        "img2": "./src/assets/products/ecobed2.png",        
+        "img2": "../src/assets/products/ecobed2.png",        
         "quantity": 0
     },
     {
@@ -101,7 +101,7 @@
         "description": "A must-have for the adventurous hamster or mouse! The Rosewood Extra Large Pico Hamster Cage has four exciting levels for your pet to explore! Starting at the bottom there is an extra deep base, to make your small furry feel more secure.",
         "imgAlt": "Pico Hamster Cage XLarge",        
         "img1": "./src/assets/products/hamstercage1.png",
-        "img2": "./src/assets/products/hamstercage2.png",        
+        "img2": "../src/assets/products/hamstercage2.png",        
         "quantity": 0
     },
     {
@@ -116,7 +116,7 @@
         "description": "Truly yummy for your small animal, these tempting Supreme Stickle Treats are just so tasty! They are bursting with a blend of delicious ingredients and include tasty toppings. Crunchy and fibrous, they stimulate the natural gnawing instinct.",
         "imgAlt": "Supreme Stickles Treats - 2 pack",        
         "img1": "./src/assets/products/sticks1.png",
-        "img2": "./src/assets/products/sticks2.png",        
+        "img2": "../src/assets/products/sticks2.png",        
         "quantity": 0
     },
     {
@@ -131,7 +131,7 @@
         "description": "With 2 large doors on each level providing easy access, this Rat & Ferret Cage by PetPlanet is a superb, and stylish, dual level cage for rats and ferrets. It is a really strong, superb quality habitat for your small furry friends.",
         "imgAlt": "Rat & Ferret Cage by PetPlanet",        
         "img1": "./src/assets/products/feretcage1.png",
-        "img2": "./src/assets/products/feretcage2.png",        
+        "img2": "../src/assets/products/feretcage2.png",        
         "quantity": 0
     },
     {
@@ -146,7 +146,7 @@
         "description": "Officially the first and only food to be approved by the National Hamster Council, this well-balanced feed is nutritionally complete and offers a balanced diet.",
         "imgAlt": "Supreme Harry Hamster Tasty Mix - 700g",        
         "img1": "./src/assets/products/hamsterfood1.png",
-        "img2": "./src/assets/products/hamsterfood2.png",        
+        "img2": "../src/assets/products/hamsterfood2.png",        
         "quantity": 0
     },
     {
@@ -161,7 +161,7 @@
         "description": "Supreme Science Selective Junior Rabbit Food is a tasty food for junior rabbits that contains extra protein to help support growth and development. It is fortified with a blend of amino acids, vitamins and herbs to provide a great natural source of antioxidants.",
         "imgAlt": "Selective Junior Rabbit Food - 10kg",        
         "img1": "./src/assets/products/rabitfood1.png",
-        "img2": "./src/assets/products/rabitfood2.png",        
+        "img2": "../src/assets/products/rabitfood2.png",        
         "quantity": 0
     },
     {
@@ -176,7 +176,7 @@
         "description": "Designed for ferrets and guinea pigs, the Rosewood Boredom Breaker Ferret Activity Tunnel provides your small furry with a stimulating distraction and encourages their natural instincts for tunnelling and hiding!",
         "imgAlt": "Boredom Breaker Ferret Activity Tunnel",        
         "img1": "./src/assets/products/feretboring1.png",
-        "img2": "./src/assets/products/feretboring2.png",        
+        "img2": "../src/assets/products/feretboring2.png",        
         "quantity": 0
     },
     {
@@ -191,7 +191,7 @@
         "description": "This Rosewood Small Animal Corner Toilet is a useful accessory ideal for homes and hutches. Available in Medium and Large sizes.",
         "imgAlt": "Small Animal Corner Toilet",        
         "img1": "./src/assets/products/smallpettoilet1.png",
-        "img2": "./src/assets/products/smallpettoilet2.png",        
+        "img2": "../src/assets/products/smallpettoilet2.png",        
         "quantity": 0
     },
     {
@@ -206,7 +206,7 @@
         "description": "This safe and hygienic Rosewood Pod Carrier is the ideal way to transport your precious pet. This pod carrier is also useful for holding your pet whilst you clean their cage.",
         "imgAlt": "Pod Carrier",        
         "img1": "./src/assets/products/pod1.png",
-        "img2": "./src/assets/products/pod2.png",        
+        "img2": "../src/assets/products/pod2.png",        
         "quantity": 0
     },
     {
@@ -221,7 +221,7 @@
         "description": "Burgess Excel Ferret Nuggets are a complete, nutritionally balanced, tasty food for ferrets. Ferrets are obligate carnivores, which means that they have to eat meat to survive as it contains important nutrients.",
         "imgAlt": "Excel Ferret Nuggets - 2kg",        
         "img1": "./src/assets/products/feretfood1.png",
-        "img2": "./src/assets/products/feretfood2.png",        
+        "img2": "../src/assets/products/feretfood2.png",        
         "quantity": 0
     },
     {
@@ -236,7 +236,7 @@
         "description": "This Animal House made by Norfolk Industries for Disabled People comes uncoloured allowing you to personalise the look of your furry friend’s house. It has been designed to engage small children with their pet through colouring.",
         "imgAlt": "Animal House Kit",        
         "img1": "./src/assets/products/pethouse1.png",
-        "img2": "./src/assets/products/pethouse2.png",        
+        "img2": "../src/assets/products/pethouse2.png",        
         "quantity": 0
     },
     {
@@ -251,7 +251,7 @@
         "description": "Rosewood Naturals Apple & Strawberry Bunnies are wonderful, grain free treats that are three steps to heaven for all little furries. Made in a cute bunny shape, the treats contain real apple, strawberry and spinach.",
         "imgAlt": "Naturals Apple & Strawberry Bunnies - 100g",        
         "img1": "./src/assets/products/strawberryfeed1.png",
-        "img2": "./src/assets/products/strawberryfeed2.png",        
+        "img2": "../src/assets/products/strawberryfeed2.png",        
         "quantity": 0
     },
     {
@@ -266,7 +266,7 @@
         "description": "Beaphar Dental Easy Treat is a delicious, nutritional treat for small animals. The Beaphar Dental Easy Treat is crunchy to support the natural wearing of the teeth, has a high fibre content of 22% to help maintain good digestion.",
         "imgAlt": "Dental Easy Treats for Small Animals - 60g",        
         "img1": "./src/assets/products/smalldental1.png",
-        "img2": "./src/assets/products/smalldental2.png",        
+        "img2": "../src/assets/products/smalldental2.png",        
         "quantity": 0
     },
     {
@@ -281,7 +281,7 @@
         "description": "Keeping a small pet always looking adorable is not an easy task. They shed frequently and their coats get matted very easily. But beyond looks, our furry little friends deserve to feel good and comfortable.",
         "imgAlt": "Options Mini Grooming Set",        
         "img1": "./src/assets/products/smallgrooming1.png",
-        "img2": "./src/assets/products/smallgrooming2.png",        
+        "img2": "../src/assets/products/smallgrooming2.png",        
         "quantity": 0
     },
     {
@@ -296,7 +296,7 @@
         "description": "Rosewood Naturals Snuffle Forage Mat for Small Animals is the perfect interactive toy to mentally stimulate your pet and encourage their natural foraging instincts. Made with multiple layers of super soft felt strands",
         "imgAlt": "Snuffle Forage Mat for Small Animals",        
         "img1": "./src/assets/products/grass1.png",
-        "img2": "./src/assets/products/grass2.png",        
+        "img2": "../src/assets/products/grass2.png",        
         "quantity": 0
     },
     {
@@ -311,7 +311,7 @@
         "description": "We all know how much dogs love cheese, which is why these Good Boy Pawsley Chewy Chicken Sticks with Cheese Dog Treats are made with super duper tasty 100% natural chicken meat and scrummy dog-safe cheese.",
         "imgAlt": "Pawsley Cheesey Chicken Sticks Dog Treats - 80g",        
         "img1": "./src/assets/products/dogssticks1.png",
-        "img2": "./src/assets/products/dogssticks2.png",        
+        "img2": "../src/assets/products/dogssticks2.png",        
         "quantity": 0
     },
     {
@@ -326,7 +326,7 @@
         "description": "Pedigree Dentastix Daily Dental Chew are uniquely X shaped dental sticks that are scientifically proven to help reduce tartar build-up by up to 80%, when fed daily. Pedigree DentaStix are designed to be chewed for long enough to be effective.",
         "imgAlt": "Dentastix Daily Dental Chew 105 Bulk Pack",        
         "img1": "./src/assets/products/pedigree1.png",
-        "img2": "./src/assets/products/pedigrees2.png",        
+        "img2": "../src/assets/products/pedigrees2.png",        
         "quantity": 0
     },
     {
@@ -341,7 +341,7 @@
         "description": "Simpsons Premium Adult Dry Dog Food is a nutritious balanced diet that is suitable for all breeds of adult dogs.Rich in Chicken it is extremely palatable and contains all the necessary vitamins and minerals required for adult dogs.",
         "imgAlt": "Adult Dry Dog Food - Chicken & Brown Rice",        
         "img1": "./src/assets/products/simpsons1.png",
-        "img2": "./src/assets/products/simpsons2.png",        
+        "img2": "../src/assets/products/simpsons2.png",        
         "quantity": 0
     },
     {
@@ -356,7 +356,7 @@
         "description": "Bamboodles T-Bone shaped chew toys are infused with bamboo making them durable and a challenge for even the most aggressive of chewers.",
         "imgAlt": "T-Bone Chew Toy - Beef",        
         "img1": "./src/assets/products/bone1.png",
-        "img2": "./src/assets/products/bone2.png",        
+        "img2": "../src/assets/products/bone2.png",        
         "quantity": 0
     },
     {
@@ -371,7 +371,7 @@
         "description": "YAKERS 100% Natural Dog Chews, made with Himalayan Yak Milk! YAKERS dog chews are suitable for all dogs over 4 months old, and are ideal for serious chewers.",
         "imgAlt": "Himalayan Dog Chew - Strawberry",        
         "img1": "./src/assets/products/dogchew1.png",
-        "img2": "./src/assets/products/dogchew2.png",        
+        "img2": "../src/assets/products/dogchew2.png",        
         "quantity": 0
     },
     {
@@ -386,7 +386,7 @@
         "description": "These degradable poo bags are easy to use as they come with built in handles, and to make things more pleasant they are vanilla scented, helping to make a necessary job less of a chore.",
         "imgAlt": "Degradable Poo Bags - 100 Bags",        
         "img1": "./src/assets/products/poobags1.png",
-        "img2": "./src/assets/products/poobags2.png",        
+        "img2": "../src/assets/products/poobags2.png",        
         "quantity": 0
     },
     {
@@ -401,7 +401,7 @@
         "description": "With no stuffing to rip out, this fabulous, realistically designed dog toy offers your pet long-lasting play with the shake-ability factor that dogs love.",
         "imgAlt": "Mallard Stuffingless Dog Toy by PetPlanet 50cm",        
         "img1": "./src/assets/products/duck1.png",
-        "img2": "./src/assets/products/duck2.png",        
+        "img2": "../src/assets/products/duck2.png",        
         "quantity": 0
     },
     {
@@ -416,7 +416,7 @@
         "description": "There is now a safe bone for your canine pal to enjoy. This solid latex Gum Gum Bone will give your best friend hours of fun and it will help clean his teeth!",
         "imgAlt": "Gum Gum Bone",        
         "img1": "./src/assets/products/gumgum1.png",
-        "img2": "./src/assets/products/gumgum2.png",        
+        "img2": "../src/assets/products/gumgum2.png",        
         "quantity": 0
     },
     {
@@ -431,7 +431,7 @@
         "description": "Manufactured from polypropylene with metal wire doors. Including a standard front opening door, this carrier also features a top opening hatch, which is ideal for removing pets when you don’t want them to run away.",
         "imgAlt": "Budget Pet Carrier",        
         "img1": "./src/assets/products/dogcarier1.png",
-        "img2": "./src/assets/products/dogcarier2.png",        
+        "img2": "../src/assets/products/dogcarier2.png",        
         "quantity": 0
     },
     {
@@ -446,7 +446,7 @@
         "description": "This Trixie Soft Puppy Harness with Lead set is specifically for puppies of very small sized breeds. It is both kind and comfortable for the new addition to the family as it is made from durable nylon and polyester.",
         "imgAlt": "Soft Puppy Harness with Lead",        
         "img1": "./src/assets/products/dogharness1.png",
-        "img2": "./src/assets/products/dogharness2.png",        
+        "img2": "../src/assets/products/dogharness2.png",        
         "quantity": 0
     },
     {
@@ -461,7 +461,7 @@
         "description": "Combining quality materials with a timeless design, this Rosewood Luxury Leather Collar is a comfortable and practical fit for your dog. Made from fine leather and suedette material for snugness.",
         "imgAlt": "Luxury Leather Collar 10-14in",        
         "img1": "./src/assets/products/colar1.png",
-        "img2": "./src/assets/products/colar2.png",        
+        "img2": "../src/assets/products/colar2.png",        
         "quantity": 0
     },
     {
@@ -476,7 +476,7 @@
         "description": "Cats and dogs are attracted to moving water and as this filtered water tastes so good, your pet will feel more inclined to drink.",
         "imgAlt": "Pet Raindrop Premium Pet Fountain - 1.8 Litres",        
         "img1": "./src/assets/products/fountain1.png",
-        "img2": "./src/assets/products/fountain2.png",        
+        "img2": "../src/assets/products/fountain2.png",        
         "quantity": 0
     },
     {
@@ -491,7 +491,7 @@
         "description": "A complete, hypo-allergenic dry food with selected protein source turkey, it is a dietetic food, excellent for the reduction of ingredient and nutrient intolerances. ",
         "imgAlt": "Adult Dry Cat Food - Turkey",        
         "img1": "./src/assets/products/turkey1.png",
-        "img2": "./src/assets/products/turkey2.png",        
+        "img2": "../src/assets/products/turkey2.png",        
         "quantity": 0
     },
     {
@@ -506,7 +506,7 @@
         "description": "These succulent and tasty Tuna Fillet Strips are the quick and easy alternative to simply cooked fish in an instant. They contain no artificial colours or flavours and are made with 100% natural tuna.",
         "imgAlt": "Fillet Strips - Tuna - 35g",        
         "img1": "./src/assets/products/catstrips1.png",
-        "img2": "./src/assets/products/catstrips2.png",        
+        "img2": "../src/assets/products/catstrips2.png",        
         "quantity": 0
     },
     {
@@ -521,7 +521,7 @@
         "description": "DREAMIES cat treats are packed full of things cats love. Share moments with your feline friend with these dual-texture treats with an enticingly crunchy outside and a soft inside.",
         "imgAlt": "Cat treats MEGA TUB 350g",        
         "img1": "./src/assets/products/dreamies1.png",
-        "img2": "./src/assets/products/dreamies2.png",        
+        "img2": "../src/assets/products/dreamies2.png",        
         "quantity": 0
     },
     {
@@ -536,7 +536,7 @@
         "description": "The Acana Premium Adult Cat Wet Food Salmon with Chicken recipe is an animal protein-rich pâté crafted to completely satisfy your feline.",
         "imgAlt": "Premium Adult Cat Wet Food - Salmon with Chicken",        
         "img1": "./src/assets/products/anaca1.png",
-        "img2": "./src/assets/products/anaca2.png",        
+        "img2": "../src/assets/products/anaca2.png",        
         "quantity": 0
     },
     {
@@ -551,7 +551,7 @@
         "description": "ROYAL CANIN Fit 32 is suitable for adult cats between 1-7 years old, it’s been specially designed to meet all of your cat’s nutritional requirements for supporting and maintaining the healthy situation that your cat is currently in.",
         "imgAlt": "Regular Fit 32 Adult Dry Cat Food",        
         "img1": "./src/assets/products/fit1.png",
-        "img2": "./src/assets/products/fit2.png",        
+        "img2": "../src/assets/products/fit2.png",        
         "quantity": 0
     },
     {
@@ -566,7 +566,7 @@
         "description": "Does your cat claw away at your furniture? This SmartCat Ultimate Sisal Scratching Post allows your cat to stretch up and scratch in the same way.",
         "imgAlt": "Ultimate Sisal Scratching Post - 83.5cm Height",        
         "img1": "./src/assets/products/smartcat1.png",
-        "img2": "./src/assets/products/smartcat2.png",        
+        "img2": "../src/assets/products/smartcat2.png",        
         "quantity": 0
     },
     {
@@ -581,7 +581,7 @@
         "description": "This incredibly versatile Iris 2-in-1 Cat Litter Box features a pull-out tray at the bottom for tray liners, making it easier for you to change and also save on the cat litter. ",
         "imgAlt": "2-in-1 Antibacterial Cat Litter Box L52 x W37.5 x H42.25cm",        
         "img1": "./src/assets/products/irish1.png",
-        "img2": "./src/assets/products/irish2.png",        
+        "img2": "../src/assets/products/irish2.png",        
         "quantity": 0
     },
     {
@@ -596,7 +596,7 @@
         "description": "A disinfectant, cleaner, and deodorant all in one, the spray will not only kill germs, but it will also eliminate bacteria and other nasty viruses.",
         "imgAlt": "Cat Litter Tray Spray - 500ml",        
         "img1": "./src/assets/products/catcleaner1.png",
-        "img2": "./src/assets/products/catcleaner2.png",        
+        "img2": "../src/assets/products/catcleaner2.png",        
         "quantity": 0
     },
     {
@@ -611,7 +611,7 @@
         "description": "The ideal pouncing toy, this Pet Love Catnip Fish Cat Toy will bring out the hunting instincts in your cat. ",
         "imgAlt": "Catnip Fish Cat Toy - Red",        
         "img1": "./src/assets/products/cattoys1.png",
-        "img2": "./src/assets/products/cattoys2.png",        
+        "img2": ".../src/assets/products/cattoys2.png",        
         "quantity": 0
     },
     {
@@ -626,7 +626,7 @@
         "description": "Add the irresistible aroma of Yeowww Catnip to your pets toys to bring out the playful puss! This super catnip is made from 100% organically grown catnip.",
         "imgAlt": "Organic Catnip 1oz",        
         "img1": "./src/assets/products/catnip1.png",
-        "img2": "./src/assets/products/catnip2.png",        
+        "img2": "../src/assets/products/catnip2.png",        
         "quantity": 0
     },
     {
@@ -641,7 +641,7 @@
         "description": "KONG Cat Nibble Critter Catnipillar Toy appeals to a cat’s natural instinctive desire to claw and bat with an easy-grip mesh fabric.",
         "imgAlt": "Cat Nibble Critter Catnipillar Cat Toy",        
         "img1": "./src/assets/products/caterpi1.png",
-        "img2": "./src/assets/products/caterpi2.png",        
+        "img2": "../src/assets/products/caterpi2.png",        
         "quantity": 0
     },
     {
@@ -656,7 +656,7 @@
         "description": "The Catit Treat Ball encourages your cat to have lots and fun and as a reward they will receive a treat!",
         "imgAlt": "Treat Ball",        
         "img1": "./src/assets/products/ball1.png",
-        "img2": "./src/assets/products/ball2.png",        
+        "img2": "../src/assets/products/ball2.png",        
         "quantity": 0
     }
 ]
