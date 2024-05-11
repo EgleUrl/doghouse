@@ -10,7 +10,7 @@ const Footer = () => {
                 <div className="row">
                     {/*Grid column*/}
                     <div className="col-lg-4 col-md-12 mb-4 mb-md-0">
-                        <a href='/'><img src="../assets/images/logo.png" alt="Company logo" id='logo'/></a>
+                        <a href='/doghouse/'><img src="" alt="Company logo" id='logo'/></a>
                         <h6 className='pt-4 pb-3'>
                             A place, where pets <b>matter</b>
                         </h6>
@@ -116,8 +116,7 @@ const Footer = () => {
             {/*Copyright*/}
             <div className="text-center p-1">
                 <p>© 2020 Copyright: Dog House Ltd.</p>
-            </div>
-            {/*Copyright*/}
+            </div>            
         </footer>
     );
 }

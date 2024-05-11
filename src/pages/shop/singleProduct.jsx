@@ -17,7 +17,7 @@ const SingleProduct = () => {
     const [product, setProduct] = useState([]);
     const { id } = useParams();
     useEffect(() => {
-        fetch("/doghouse/src/products.json")
+        fetch("../src/products.json")
         .then((res) => res.json())
         .then((data) => setProduct(data));
     }, []);
