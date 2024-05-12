@@ -10,8 +10,8 @@
         "ratingsCount": 3725,
         "description": "A disinfectant, cleaner and deodorant all in one, the spray can be used for where your pets live, sleep and feed, such as hutches, cages, bedding and drinkers. Suitable for small animals.",
         "imgAlt": "Small Animal Disinfectant Spray",        
-        "img1": "../assets/products/spray1.png",
-        "img2": "../assets/products/spray2.png",        
+        "img1": "../../products/spray1.png",
+        "img2": "../../products/spray2.png",        
         "quantity": 0
     },
     {
