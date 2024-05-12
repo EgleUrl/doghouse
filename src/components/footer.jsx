@@ -10,7 +10,7 @@ const Footer = () => {
                 <div className="row">
                     {/*Grid column*/}
                     <div className="col-lg-4 col-md-12 mb-4 mb-md-0">
-                        <a href='/doghouse/'><img src="" alt="Company logo" id='logo'/></a>
+                        <a href='/doghouse/'><img src="./src/assets/images/logo.png?raw=true" alt="Company logo" id='logo'/></a>
                         <h6 className='pt-4 pb-3'>
                             A place, where pets <b>matter</b>
                         </h6>
@@ -64,16 +64,16 @@ const Footer = () => {
                         <h6 className="text-uppercase fw-bold">Site Links</h6>
                         <ul className="list-unstyled mb-0">
                             <li className='link'>
-                                <a href="/" className="text-black">Home</a>
+                                <a href="/doghouse/" className="text-black">Home</a>
                             </li>
                             <li className='link'>
-                                <a href="/shop" className="text-black">Shop</a>
+                                <a href="/doghouse/shop" className="text-black">Shop</a>
                             </li>
                             <li className='link'>
-                                <a href="/about" className="text-black">About Us</a>
+                                <a href="/doghouse/about" className="text-black">About Us</a>
                             </li>
                             <li className='link'>
-                                <a href="/contact" className="text-black">Contact Us</a>
+                                <a href="/doghouse/contact" className="text-black">Contact Us</a>
                             </li>
                         </ul>
                     </div>

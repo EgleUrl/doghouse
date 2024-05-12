@@ -8,7 +8,7 @@ const NavigationBar = () => {
     return (
         <Navbar expand="lg" sticky="top" className='nav-area'>
             <Container>
-                <Navbar.Brand href="/doghouse/"><img src="./src/assets/images/logo.png" alt="Company logo" id="logo"/></Navbar.Brand>
+                <Navbar.Brand href="/doghouse/"><img src="./src/assets/images/logo.png?raw=true" alt="Company logo" id="logo"/></Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="me-auto justify-content-end flex-grow-1 pe-4" id='links'>
