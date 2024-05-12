@@ -4,6 +4,7 @@ video {
     height: 100%;
     position: fixed;
     z-index: -1;
+    background: url("/doghouse/public/dogHouse.mp4") top;
   }
   .btn {
     width: 250px;
